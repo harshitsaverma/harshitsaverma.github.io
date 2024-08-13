@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+I am a database administrator since 13+ years and still a lot of dive left in the ocean of data world and now it's time to dive together and to do same i am preparing this blog. 
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This blog is going about data, databases and it's flavors. In today's world, as data is everything so let's dive deep into it 
+and bring valuable information to maintain, preserve, optimize and secure and admin same data with the help of available databases flavors.
